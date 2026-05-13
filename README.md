@@ -1,4 +1,4 @@
-# My chaotic CLAUDE.md
+# Speclock CLAUDE.md
 
 <p align="center">
   <img width="540" src="https://github.com/user-attachments/assets/5b2a9c0a-69e3-4891-bf39-b4e1f9e753cb" alt="Imagem do projeto" />
@@ -10,13 +10,13 @@
 Drop `CLAUDE.md` into the root of your project:
 
 ```bash
-curl -O https://raw.githubusercontent.com/breim/my-chaotic-claude-md/main/CLAUDE.md
+curl -O https://raw.githubusercontent.com/breim/speclock-claude-md/main/CLAUDE.md
 ```
 
 Or with `wget`:
 
 ```bash
-wget https://raw.githubusercontent.com/breim/my-chaotic-claude-md/main/CLAUDE.md
+wget https://raw.githubusercontent.com/breim/speclock-claude-md/main/CLAUDE.md
 ```
 
 ## Origin
